@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int A,B,C,D,E,F,G,H,percent,total,obtained,p;
+	double A,B,C,D,E,F,G,H,percent,total,obtained,p;
 	cout<<"Enter your all subj Marks:"<<endl;
 	cin>>A>>B>>C>>D>>E>>F>>G>>H;
 	

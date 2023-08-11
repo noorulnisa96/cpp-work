@@ -5,7 +5,7 @@ int main()
 	double a,b,c,d,e,sum,mul,divid,sub,n,final,j,k;
 	
 	
-	cout<<"Enter any Five numbers and then press enter.\n(Each value shoulb be less than 15)"<<endl;
+	cout<<"Enter any Five numbers and then press enter.\n(value should not contain point and should be <500)"<<endl;
 	cin>>a>>b>>c>>d>>e;
 	
 
